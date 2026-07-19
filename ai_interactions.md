@@ -1,12 +1,10 @@
 # AI Interactions Log
 
-> **Stretch features only.** Only fill in the sections that apply to stretch features you attempted. If you did not attempt a stretch feature, leave its section blank or delete it. This file is not required for the core project.
+This log documents the two stretch features where I used AI in a bigger way: the agentic dataset expansion (SF8) and the design-pattern brainstorm for the scoring modes (SF10).
 
 ---
 
 ## Agentic Workflow (SF8)
-
-> Document your experience using an AI agent (e.g., Cursor Agent, Claude, Copilot) to make multi-step changes autonomously.
 
 **What task did you give the agent?**
 
@@ -33,8 +31,6 @@ Expand the dataset from 10 songs / 10 columns to 20+ songs / 15 columns, and wir
 ---
 
 ## Design Pattern (SF10)
-
-> Document how AI helped you choose or implement a design pattern.
 
 **Which design pattern did you use?**
 
