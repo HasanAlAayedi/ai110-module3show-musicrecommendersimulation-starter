@@ -1,11 +1,23 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,mood_tags,instrumentalness,explicit
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,78,2020,euphoric;summery,0.05,no
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,64,2020,nostalgic;cozy,0.88,no
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,71,2010,aggressive;driving,0.12,no
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,55,2020,cozy;rainy,0.92,no
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,85,2020,motivational;aggressive,0.02,no
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,48,2010,dreamy;spacey,0.95,no
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,52,2000,cozy;nostalgic,0.60,no
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,69,2010,nostalgic;dreamy,0.70,no
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,61,2020,cozy;steady,0.90,no
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,73,2020,summery;euphoric,0.08,no
+11,Concrete Poetry,MC Vantage,hip-hop,confident,0.72,95,0.63,0.86,0.12,88,2020,confident;gritty,0.03,yes
+12,Bass Cathedral,DJ Nova,edm,euphoric,0.96,128,0.80,0.94,0.02,92,2020,euphoric;club,0.75,no
+13,Dust Road Home,Willa Craine,country,nostalgic,0.48,104,0.66,0.55,0.74,58,2010,nostalgic;warm,0.10,no
+14,Moonlight Etude,Aria Chen,classical,calm,0.15,66,0.42,0.20,0.97,45,1990,elegant;dreamy,0.98,no
+15,Iron Bloom,Graveshift,metal,intense,0.98,160,0.30,0.52,0.03,66,2010,aggressive;dark,0.20,yes
+16,Velvet Hours,Sable & Gold,r&b,romantic,0.55,92,0.72,0.75,0.30,80,2020,romantic;smooth,0.05,no
+17,Harbor Lanterns,The Quiet Fields,folk,calm,0.30,84,0.58,0.45,0.91,50,2000,warm;rainy,0.25,no
+18,Fiesta Neon,Los Brillantes,reggaeton,happy,0.88,96,0.90,0.95,0.08,90,2020,club;summery,0.02,yes
+19,Static Youth,Ripcord Kids,punk,rebellious,0.94,178,0.55,0.60,0.06,62,2000,aggressive;raw,0.08,yes
+20,Golden Hour Slow,Marigold Tape,soul,romantic,0.44,86,0.75,0.68,0.65,67,1990,romantic;warm,0.12,no
+21,Glass Mountains,Echo Atlas,indie rock,moody,0.68,120,0.45,0.58,0.28,59,2010,dreamy;driving,0.30,no
+22,Tokyo Rain Level,Pixel Monk,edm,chill,0.52,100,0.61,0.70,0.40,74,2020,dreamy;club,0.85,no
